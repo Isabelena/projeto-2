@@ -18,6 +18,5 @@ printf("O número é igual a: %d, numero" \n\n);
   system("PAUSE");
 
 return 0;
-
-
+}
   
